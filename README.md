@@ -1,4 +1,4 @@
 # nsbaguette.github.io
 First attempt at writing blog
 
-[link](nsbaguette.github.io)
+[link](https://nsbaguette.github.io)
