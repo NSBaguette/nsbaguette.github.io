@@ -1,7 +1,4 @@
 body {
-  background-color: #333;
-  font-family: 'Luckiest Guy', cursive;
-  font-size: 35px;
 }
 
 path {
@@ -9,5 +6,7 @@ path {
 }
 
 text {
-  fill: #FF9800;
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 35px;
+  fill: #999;
 }
