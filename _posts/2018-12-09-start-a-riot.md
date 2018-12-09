@@ -14,6 +14,3 @@ pacman -S lib32-gcc-libs
 ```
 
 Happy RIOTing.
-
-<sup>1</sup> https://doc.riot-os.org/index.html#the-quickest-start
-<sup>2</sup> https://github.com/RIOT-OS/Tutorials/blob/master/README.md
