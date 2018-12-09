@@ -5,4 +5,5 @@ a {
   font-size: 3em;
   font-family:'Helvetica', 'Arial', 'Sans-Serif';
   fill: #999;
+  text-decoration: none;
 }
