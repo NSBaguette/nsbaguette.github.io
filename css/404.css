@@ -1,12 +1,8 @@
 body {
 }
 
-path {
-  fill: transparent;
-}
-
-text {
-  font-family: 'Luckiest Guy', cursive;
-  font-size: 35px;
+a {
+  font-size: 3em;
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
   fill: #999;
 }
